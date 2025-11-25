@@ -1,0 +1,201 @@
+reviewer_id,reviewer_name,reviewer_age,reviewer_city,reviews.text,reviews.rating,reviews.doRecommend,reviews.date,categories,name,reviews.numHelpful,prices
+1,Jordan Patel,33,Bristol,I was disappointed with this non-stick pan I bought online. Delivery was to Bristol.,1,False,2023-12-13,Home & Kitchen,Non-stick Pan,3,186.46
+2,Jamie Smith,20,Cardiff,I was disappointed with this wireless headphones I bought online. Delivery was to Cardiff.,2,False,2023-04-30,Electronics,Wireless Headphones,0,128.81
+3,Alex Taylor,63,Leeds,I was disappointed with this conditioner I bought online. Delivery was to Leeds.,2,False,2023-08-18,Beauty,Conditioner,0,149.37
+4,Alex Garcia,39,Cardiff,I was disappointed with this python for beginners I bought online. Delivery was to Cardiff.,2,False,2023-06-22,Books,Python for Beginners,0,30.04
+5,Casey Smith,40,Glasgow,I was disappointed with this football I bought online. Delivery was to Glasgow.,1,False,2023-08-24,Sports,Football,3,136.38
+6,Casey Smith,58,Bristol,I really liked this football I bought online. Delivery was to Bristol.,5,True,2023-04-09,Sports,Football,2,177.62
+7,Alex Brown,23,Bristol,I really liked this ceramic mug I bought online. Delivery was to Bristol.,4,True,2023-05-23,Home & Kitchen,Ceramic Mug,0,116.09
+8,Riley Garcia,40,Glasgow,I was disappointed with this vacuum cleaner I bought online. Delivery was to Glasgow.,1,False,2023-11-08,Home & Kitchen,Vacuum Cleaner,0,160.57
+9,Jamie Brown,47,Birmingham,I really liked this jeans I bought online. Delivery was to Birmingham.,5,True,2023-04-23,Clothing,Jeans,1,172.73
+10,Alex Brown,38,London,I was disappointed with this jeans I bought online. Delivery was to London.,1,False,2023-04-19,Clothing,Jeans,1,228.72
+11,Kiran Khan,59,Leeds,I really liked this jacket I bought online. Delivery was to Leeds.,4,True,2023-03-15,Clothing,Jacket,1,69.9
+12,Morgan Taylor,65,Bristol,I really liked this tennis racket I bought online. Delivery was to Bristol.,5,True,2023-07-24,Sports,Tennis Racket,1,93.69
+13,Taylor Taylor,23,Edinburgh,I was disappointed with this wireless headphones I bought online. Delivery was to Edinburgh.,2,False,2023-11-18,Electronics,Wireless Headphones,2,44.2
+14,Casey Martin,42,Manchester,I really liked this jacket I bought online. Delivery was to Manchester.,5,True,2023-05-09,Clothing,Jacket,2,242.91
+15,Alex Smith,59,Bristol,"It was okay, not great data science 101 I bought online. Delivery was to Bristol.",3,False,2023-08-11,Books,Data Science 101,1,43.75
+16,Alex Lee,50,Birmingham,I really liked this laptop stand I bought online. Delivery was to Birmingham.,5,True,2023-11-08,Electronics,Laptop Stand,0,53.73
+17,Riley Garcia,56,London,I was disappointed with this self-help guide I bought online. Delivery was to London.,1,False,2023-02-27,Books,Self-help Guide,4,232.63
+18,Sam Brown,33,London,I was disappointed with this yoga mat I bought online. Delivery was to London.,1,False,2023-09-06,Sports,Yoga Mat,2,204.93
+19,Jamie Garcia,60,Birmingham,"It was okay, not great running shoes I bought online. Delivery was to Birmingham.",3,False,2023-09-28,Clothing,Running Shoes,1,218.75
+20,Casey Brown,63,Leeds,"It was okay, not great self-help guide I bought online. Delivery was to Leeds.",3,False,2023-08-13,Books,Self-help Guide,2,225.41
+21,Avery Smith,32,Leeds,I was disappointed with this laptop stand I bought online. Delivery was to Leeds.,1,False,2023-10-29,Electronics,Laptop Stand,1,140.71
+22,Kiran Brown,22,London,I was disappointed with this face serum I bought online. Delivery was to London.,2,False,2023-02-04,Beauty,Face Serum,1,226.83
+23,Riley Smith,35,Leeds,I was disappointed with this conditioner I bought online. Delivery was to Leeds.,2,False,2023-10-04,Beauty,Conditioner,6,37.42
+24,Kiran Martin,33,Edinburgh,I was disappointed with this jacket I bought online. Delivery was to Edinburgh.,2,False,2023-02-18,Clothing,Jacket,0,28.75
+25,Casey Khan,44,Cardiff,I was disappointed with this hoodie I bought online. Delivery was to Cardiff.,1,False,2023-02-01,Clothing,Hoodie,0,103.64
+26,Riley Smith,30,Leeds,I was disappointed with this led lamp I bought online. Delivery was to Leeds.,2,False,2023-08-05,Home & Kitchen,LED Lamp,1,49.95
+27,Avery Brown,46,Manchester,I was disappointed with this yoga mat I bought online. Delivery was to Manchester.,1,False,2023-11-30,Sports,Yoga Mat,2,249.82
+28,Alex Smith,28,Leeds,I really liked this jacket I bought online. Delivery was to Leeds.,4,True,2023-04-20,Clothing,Jacket,1,216.84
+29,Alex Garcia,18,Cardiff,I really liked this jeans I bought online. Delivery was to Cardiff.,4,True,2023-05-27,Clothing,Jeans,0,108.64
+30,Jamie Jones,30,Birmingham,I was disappointed with this python for beginners I bought online. Delivery was to Birmingham.,1,False,2023-10-24,Books,Python for Beginners,1,185.26
+31,Alex Khan,21,London,I really liked this tennis racket I bought online. Delivery was to London.,5,True,2023-09-29,Sports,Tennis Racket,2,43.57
+32,Jamie Smith,22,Birmingham,I was disappointed with this yoga mat I bought online. Delivery was to Birmingham.,2,False,2023-07-26,Sports,Yoga Mat,0,34.37
+33,Kiran Brown,57,London,I really liked this bluetooth speaker I bought online. Delivery was to London.,5,True,2023-10-17,Electronics,Bluetooth Speaker,4,133.08
+34,Sam Brown,33,Glasgow,I was disappointed with this self-help guide I bought online. Delivery was to Glasgow.,2,False,2023-12-10,Books,Self-help Guide,1,163.15
+35,Avery Khan,18,Manchester,I was disappointed with this hoodie I bought online. Delivery was to Manchester.,1,False,2023-10-03,Clothing,Hoodie,2,57.22
+36,Sam Garcia,22,Glasgow,"It was okay, not great vacuum cleaner I bought online. Delivery was to Glasgow.",3,False,2023-03-22,Home & Kitchen,Vacuum Cleaner,0,112.36
+37,Jamie Lee,60,London,I was disappointed with this football I bought online. Delivery was to London.,1,False,2023-03-10,Sports,Football,1,69.79
+38,Jordan Taylor,35,Birmingham,"It was okay, not great python for beginners I bought online. Delivery was to Birmingham.",3,False,2023-04-15,Books,Python for Beginners,3,173.44
+39,Sam Taylor,34,Edinburgh,I really liked this wireless headphones I bought online. Delivery was to Edinburgh.,4,True,2023-05-22,Electronics,Wireless Headphones,0,15.8
+40,Riley Garcia,28,Bristol,I really liked this conditioner I bought online. Delivery was to Bristol.,5,True,2023-12-28,Beauty,Conditioner,4,109.78
+41,Alex Smith,62,Manchester,"It was okay, not great ceramic mug I bought online. Delivery was to Manchester.",3,False,2023-10-26,Home & Kitchen,Ceramic Mug,2,140.37
+42,Casey Garcia,37,London,"It was okay, not great data science 101 I bought online. Delivery was to London.",3,False,2023-04-18,Books,Data Science 101,0,172.11
+43,Jordan Khan,57,Cardiff,I was disappointed with this moisturizer I bought online. Delivery was to Cardiff.,2,False,2023-03-25,Beauty,Moisturizer,0,244.17
+44,Taylor Singh,29,London,I really liked this shampoo I bought online. Delivery was to London.,4,True,2023-12-09,Beauty,Shampoo,1,216.7
+45,Morgan Lee,62,Birmingham,I was disappointed with this bluetooth speaker I bought online. Delivery was to Birmingham.,1,False,2023-08-29,Electronics,Bluetooth Speaker,2,59.5
+46,Avery Khan,32,Bristol,I was disappointed with this ceramic mug I bought online. Delivery was to Bristol.,2,False,2023-07-24,Home & Kitchen,Ceramic Mug,2,85.42
+47,Jordan Lee,59,Glasgow,I really liked this tennis racket I bought online. Delivery was to Glasgow.,5,True,2023-06-19,Sports,Tennis Racket,0,235.11
+48,Jordan Lee,55,Birmingham,I was disappointed with this data science 101 I bought online. Delivery was to Birmingham.,1,False,2023-11-02,Books,Data Science 101,1,111.47
+49,Riley Singh,42,Manchester,"It was okay, not great dumbbell set I bought online. Delivery was to Manchester.",3,False,2023-01-23,Sports,Dumbbell Set,5,178.65
+50,Alex Taylor,41,Leeds,"It was okay, not great hoodie I bought online. Delivery was to Leeds.",3,False,2023-11-16,Clothing,Hoodie,4,81.91
+51,Jordan Lee,60,Bristol,I really liked this jeans I bought online. Delivery was to Bristol.,4,True,2023-12-23,Clothing,Jeans,0,77.44
+52,Taylor Brown,60,Cardiff,I really liked this running shoes I bought online. Delivery was to Cardiff.,5,True,2023-10-19,Clothing,Running Shoes,1,78.73
+53,Jamie Patel,36,Bristol,I really liked this led lamp I bought online. Delivery was to Bristol.,5,True,2023-11-07,Home & Kitchen,LED Lamp,2,165.4
+54,Avery Jones,61,Edinburgh,I was disappointed with this led lamp I bought online. Delivery was to Edinburgh.,2,False,2023-12-04,Home & Kitchen,LED Lamp,1,25.77
+55,Jamie Martin,23,Glasgow,I was disappointed with this vacuum cleaner I bought online. Delivery was to Glasgow.,2,False,2023-04-12,Home & Kitchen,Vacuum Cleaner,0,41.1
+56,Alex Brown,57,Edinburgh,I really liked this bluetooth speaker I bought online. Delivery was to Edinburgh.,4,True,2023-11-19,Electronics,Bluetooth Speaker,0,146.04
+57,Casey Jones,33,Cardiff,I was disappointed with this ceramic mug I bought online. Delivery was to Cardiff.,1,False,2023-08-06,Home & Kitchen,Ceramic Mug,2,58.62
+58,Jamie Jones,53,London,I really liked this ceramic mug I bought online. Delivery was to London.,4,True,2023-03-10,Home & Kitchen,Ceramic Mug,2,201.35
+59,Jamie Taylor,46,Glasgow,I really liked this tennis racket I bought online. Delivery was to Glasgow.,5,True,2023-08-17,Sports,Tennis Racket,3,224.82
+60,Avery Jones,33,Bristol,I really liked this shampoo I bought online. Delivery was to Bristol.,5,True,2023-09-06,Beauty,Shampoo,1,158.55
+61,Sam Jones,63,Manchester,"It was okay, not great python for beginners I bought online. Delivery was to Manchester.",3,False,2023-06-21,Books,Python for Beginners,0,83.33
+62,Jamie Smith,27,Birmingham,I was disappointed with this led lamp I bought online. Delivery was to Birmingham.,2,False,2023-12-28,Home & Kitchen,LED Lamp,2,57.42
+63,Casey Singh,52,Glasgow,I was disappointed with this jacket I bought online. Delivery was to Glasgow.,1,False,2023-04-16,Clothing,Jacket,2,209.06
+64,Casey Martin,54,London,I was disappointed with this jacket I bought online. Delivery was to London.,1,False,2023-06-30,Clothing,Jacket,0,78.16
+65,Casey Singh,49,Leeds,I really liked this vacuum cleaner I bought online. Delivery was to Leeds.,4,True,2023-09-06,Home & Kitchen,Vacuum Cleaner,2,12.11
+66,Riley Singh,47,Birmingham,I really liked this ceramic mug I bought online. Delivery was to Birmingham.,4,True,2023-10-31,Home & Kitchen,Ceramic Mug,2,143.28
+67,Alex Smith,26,Cardiff,I was disappointed with this running shoes I bought online. Delivery was to Cardiff.,1,False,2023-05-14,Clothing,Running Shoes,2,97.88
+68,Morgan Jones,39,Glasgow,I really liked this jeans I bought online. Delivery was to Glasgow.,4,True,2023-05-10,Clothing,Jeans,2,209.55
+69,Avery Patel,40,London,I was disappointed with this ceramic mug I bought online. Delivery was to London.,1,False,2023-01-16,Home & Kitchen,Ceramic Mug,2,237.65
+70,Morgan Patel,33,Birmingham,I was disappointed with this led lamp I bought online. Delivery was to Birmingham.,1,False,2023-10-16,Home & Kitchen,LED Lamp,0,237.2
+71,Avery Lee,28,Glasgow,I was disappointed with this yoga mat I bought online. Delivery was to Glasgow.,2,False,2023-06-09,Sports,Yoga Mat,2,31.48
+72,Alex Lee,43,Cardiff,I was disappointed with this moisturizer I bought online. Delivery was to Cardiff.,1,False,2023-10-31,Beauty,Moisturizer,1,174.2
+73,Morgan Smith,61,Bristol,I really liked this yoga mat I bought online. Delivery was to Bristol.,5,True,2023-01-22,Sports,Yoga Mat,1,90.06
+74,Casey Khan,50,Manchester,I was disappointed with this shampoo I bought online. Delivery was to Manchester.,1,False,2023-08-04,Beauty,Shampoo,3,206.47
+75,Jordan Singh,58,Glasgow,I really liked this running shoes I bought online. Delivery was to Glasgow.,4,True,2023-04-01,Clothing,Running Shoes,1,184.78
+76,Sam Martin,47,Edinburgh,"It was okay, not great jeans I bought online. Delivery was to Edinburgh.",3,False,2023-05-06,Clothing,Jeans,2,208.53
+77,Jordan Lee,33,Edinburgh,"It was okay, not great jacket I bought online. Delivery was to Edinburgh.",3,False,2023-01-15,Clothing,Jacket,3,126.11
+78,Riley Garcia,31,Edinburgh,"It was okay, not great mystery novel I bought online. Delivery was to Edinburgh.",3,False,2023-05-24,Books,Mystery Novel,1,220.68
+79,Sam Taylor,51,London,I was disappointed with this ceramic mug I bought online. Delivery was to London.,2,False,2023-07-28,Home & Kitchen,Ceramic Mug,3,124.7
+80,Morgan Jones,46,Edinburgh,"It was okay, not great wireless headphones I bought online. Delivery was to Edinburgh.",3,False,2023-04-24,Electronics,Wireless Headphones,3,104.08
+81,Morgan Lee,48,Glasgow,I really liked this football I bought online. Delivery was to Glasgow.,4,True,2023-10-09,Sports,Football,2,86.04
+82,Avery Lee,34,Bristol,I was disappointed with this ceramic mug I bought online. Delivery was to Bristol.,2,False,2023-06-11,Home & Kitchen,Ceramic Mug,0,34.29
+83,Jamie Garcia,31,Leeds,"It was okay, not great conditioner I bought online. Delivery was to Leeds.",3,False,2023-10-29,Beauty,Conditioner,2,244.27
+84,Jamie Martin,24,Bristol,I was disappointed with this vacuum cleaner I bought online. Delivery was to Bristol.,2,False,2023-07-04,Home & Kitchen,Vacuum Cleaner,0,48.96
+85,Alex Taylor,35,Birmingham,I really liked this wireless headphones I bought online. Delivery was to Birmingham.,5,True,2023-05-30,Electronics,Wireless Headphones,1,175.87
+86,Taylor Jones,18,Manchester,I really liked this football I bought online. Delivery was to Manchester.,4,True,2023-09-03,Sports,Football,0,112.91
+87,Taylor Patel,48,Bristol,I really liked this wireless headphones I bought online. Delivery was to Bristol.,4,True,2023-09-09,Electronics,Wireless Headphones,3,23.15
+88,Alex Garcia,54,Birmingham,I was disappointed with this data science 101 I bought online. Delivery was to Birmingham.,2,False,2023-03-02,Books,Data Science 101,1,141.73
+89,Casey Martin,51,Leeds,I really liked this jacket I bought online. Delivery was to Leeds.,4,True,2023-06-02,Clothing,Jacket,2,215.74
+90,Casey Lee,57,London,I was disappointed with this face serum I bought online. Delivery was to London.,2,False,2023-11-17,Beauty,Face Serum,3,56.7
+91,Jordan Garcia,29,Leeds,I was disappointed with this yoga mat I bought online. Delivery was to Leeds.,2,False,2023-01-02,Sports,Yoga Mat,1,105.09
+92,Kiran Jones,20,Bristol,"It was okay, not great vacuum cleaner I bought online. Delivery was to Bristol.",3,False,2023-12-26,Home & Kitchen,Vacuum Cleaner,2,215.6
+93,Jordan Brown,58,Bristol,I really liked this dumbbell set I bought online. Delivery was to Bristol.,4,True,2023-02-28,Sports,Dumbbell Set,4,138.42
+94,Taylor Lee,22,Birmingham,"It was okay, not great smartphone I bought online. Delivery was to Birmingham.",3,False,2023-11-01,Electronics,Smartphone,1,188.49
+95,Kiran Lee,25,Edinburgh,I really liked this jeans I bought online. Delivery was to Edinburgh.,4,True,2023-05-20,Clothing,Jeans,1,127.62
+96,Avery Jones,56,Manchester,"It was okay, not great bluetooth speaker I bought online. Delivery was to Manchester.",3,False,2023-11-06,Electronics,Bluetooth Speaker,0,66.34
+97,Jordan Brown,61,London,I was disappointed with this data science 101 I bought online. Delivery was to London.,2,False,2023-08-29,Books,Data Science 101,1,132.15
+98,Avery Lee,55,Birmingham,I was disappointed with this jacket I bought online. Delivery was to Birmingham.,1,False,2023-08-29,Clothing,Jacket,4,90.25
+99,Riley Khan,28,Manchester,I really liked this self-help guide I bought online. Delivery was to Manchester.,4,True,2023-05-28,Books,Self-help Guide,5,167.33
+100,Casey Taylor,47,London,"It was okay, not great laptop stand I bought online. Delivery was to London.",3,False,2023-06-15,Electronics,Laptop Stand,2,33.4
+101,Casey Taylor,60,London,I really liked this tennis racket I bought online. Delivery was to London.,4,True,2023-01-28,Sports,Tennis Racket,0,50.96
+102,Riley Martin,58,Edinburgh,I was disappointed with this hoodie I bought online. Delivery was to Edinburgh.,2,False,2023-05-17,Clothing,Hoodie,3,139.56
+103,Sam Jones,25,Edinburgh,I was disappointed with this smartphone I bought online. Delivery was to Edinburgh.,2,False,2023-06-09,Electronics,Smartphone,0,139.96
+104,Jamie Singh,32,Manchester,I was disappointed with this bluetooth speaker I bought online. Delivery was to Manchester.,1,False,2023-11-28,Electronics,Bluetooth Speaker,2,208.88
+105,Avery Lee,44,Bristol,I was disappointed with this jacket I bought online. Delivery was to Bristol.,2,False,2023-08-22,Clothing,Jacket,4,140.06
+106,Casey Brown,22,Birmingham,"It was okay, not great self-help guide I bought online. Delivery was to Birmingham.",3,False,2023-09-17,Books,Self-help Guide,1,70.46
+107,Alex Lee,55,Bristol,I was disappointed with this tennis racket I bought online. Delivery was to Bristol.,2,False,2023-08-17,Sports,Tennis Racket,5,136.95
+108,Riley Khan,47,Cardiff,I was disappointed with this python for beginners I bought online. Delivery was to Cardiff.,2,False,2023-10-20,Books,Python for Beginners,5,98.83
+109,Casey Patel,65,Glasgow,I really liked this jacket I bought online. Delivery was to Glasgow.,4,True,2023-12-06,Clothing,Jacket,1,199.14
+110,Taylor Jones,26,London,I was disappointed with this football I bought online. Delivery was to London.,1,False,2023-08-14,Sports,Football,1,29.43
+111,Avery Patel,44,Birmingham,I was disappointed with this moisturizer I bought online. Delivery was to Birmingham.,1,False,2023-08-29,Beauty,Moisturizer,2,196.47
+112,Sam Khan,59,Cardiff,I really liked this laptop stand I bought online. Delivery was to Cardiff.,5,True,2023-07-14,Electronics,Laptop Stand,1,238.76
+113,Avery Taylor,57,London,"It was okay, not great smartphone I bought online. Delivery was to London.",3,False,2023-04-27,Electronics,Smartphone,0,187.96
+114,Casey Smith,46,Manchester,I was disappointed with this vacuum cleaner I bought online. Delivery was to Manchester.,1,False,2023-01-24,Home & Kitchen,Vacuum Cleaner,2,84.47
+115,Alex Lee,41,Glasgow,I was disappointed with this running shoes I bought online. Delivery was to Glasgow.,2,False,2023-09-29,Clothing,Running Shoes,2,105.95
+116,Taylor Garcia,23,Birmingham,I really liked this tennis racket I bought online. Delivery was to Birmingham.,5,True,2023-12-16,Sports,Tennis Racket,1,64.0
+117,Kiran Garcia,47,Leeds,I really liked this shampoo I bought online. Delivery was to Leeds.,4,True,2023-05-11,Beauty,Shampoo,0,168.38
+118,Avery Lee,22,Birmingham,I really liked this jeans I bought online. Delivery was to Birmingham.,5,True,2023-06-03,Clothing,Jeans,2,161.54
+119,Casey Lee,37,Edinburgh,I really liked this led lamp I bought online. Delivery was to Edinburgh.,4,True,2023-02-24,Home & Kitchen,LED Lamp,3,63.12
+120,Kiran Khan,62,Bristol,I really liked this data science 101 I bought online. Delivery was to Bristol.,4,True,2023-05-21,Books,Data Science 101,1,6.98
+121,Alex Martin,36,Edinburgh,I was disappointed with this vacuum cleaner I bought online. Delivery was to Edinburgh.,2,False,2023-11-22,Home & Kitchen,Vacuum Cleaner,1,51.58
+122,Sam Garcia,58,Manchester,"It was okay, not great face serum I bought online. Delivery was to Manchester.",3,False,2023-08-14,Beauty,Face Serum,0,13.17
+123,Riley Garcia,36,Manchester,I was disappointed with this self-help guide I bought online. Delivery was to Manchester.,2,False,2023-04-13,Books,Self-help Guide,4,37.38
+124,Jamie Khan,28,Bristol,"It was okay, not great self-help guide I bought online. Delivery was to Bristol.",3,False,2023-06-23,Books,Self-help Guide,0,202.04
+125,Avery Smith,32,Birmingham,I really liked this conditioner I bought online. Delivery was to Birmingham.,5,True,2023-07-07,Beauty,Conditioner,1,27.12
+126,Casey Patel,52,Bristol,"It was okay, not great bluetooth speaker I bought online. Delivery was to Bristol.",3,False,2023-12-11,Electronics,Bluetooth Speaker,2,188.51
+127,Sam Martin,58,Cardiff,I was disappointed with this data science 101 I bought online. Delivery was to Cardiff.,2,False,2023-08-30,Books,Data Science 101,4,11.13
+128,Jamie Khan,59,Leeds,"It was okay, not great bluetooth speaker I bought online. Delivery was to Leeds.",3,False,2023-11-29,Electronics,Bluetooth Speaker,1,105.03
+129,Taylor Patel,37,London,I was disappointed with this hoodie I bought online. Delivery was to London.,1,False,2023-05-01,Clothing,Hoodie,1,222.38
+130,Taylor Singh,41,Edinburgh,I really liked this conditioner I bought online. Delivery was to Edinburgh.,5,True,2023-03-21,Beauty,Conditioner,0,221.93
+131,Jordan Jones,35,Cardiff,I was disappointed with this laptop stand I bought online. Delivery was to Cardiff.,2,False,2023-08-16,Electronics,Laptop Stand,0,113.95
+132,Morgan Khan,61,Manchester,I was disappointed with this mystery novel I bought online. Delivery was to Manchester.,1,False,2023-07-23,Books,Mystery Novel,0,72.59
+133,Jordan Jones,60,Manchester,I was disappointed with this ceramic mug I bought online. Delivery was to Manchester.,1,False,2023-06-20,Home & Kitchen,Ceramic Mug,3,64.67
+134,Taylor Martin,22,Leeds,I really liked this dumbbell set I bought online. Delivery was to Leeds.,5,True,2023-04-21,Sports,Dumbbell Set,2,204.2
+135,Morgan Khan,56,Birmingham,I was disappointed with this laptop stand I bought online. Delivery was to Birmingham.,2,False,2023-03-08,Electronics,Laptop Stand,1,137.35
+136,Taylor Smith,26,London,I was disappointed with this laptop stand I bought online. Delivery was to London.,2,False,2023-10-29,Electronics,Laptop Stand,2,84.32
+137,Taylor Lee,26,London,I really liked this conditioner I bought online. Delivery was to London.,5,True,2023-02-28,Beauty,Conditioner,2,187.69
+138,Avery Jones,50,Glasgow,I really liked this yoga mat I bought online. Delivery was to Glasgow.,4,True,2023-09-15,Sports,Yoga Mat,2,59.28
+139,Kiran Patel,47,Bristol,I was disappointed with this face serum I bought online. Delivery was to Bristol.,1,False,2023-09-03,Beauty,Face Serum,0,212.59
+140,Casey Smith,63,Edinburgh,I was disappointed with this hoodie I bought online. Delivery was to Edinburgh.,1,False,2023-06-14,Clothing,Hoodie,1,154.03
+141,Jordan Garcia,57,Bristol,I really liked this shampoo I bought online. Delivery was to Bristol.,4,True,2023-11-02,Beauty,Shampoo,3,134.99
+142,Avery Taylor,24,Cardiff,I really liked this face serum I bought online. Delivery was to Cardiff.,5,True,2023-04-21,Beauty,Face Serum,2,110.37
+143,Morgan Singh,47,Glasgow,I was disappointed with this jacket I bought online. Delivery was to Glasgow.,1,False,2023-06-10,Clothing,Jacket,4,109.56
+144,Sam Khan,61,Birmingham,I was disappointed with this hoodie I bought online. Delivery was to Birmingham.,1,False,2023-02-13,Clothing,Hoodie,0,27.84
+145,Jordan Khan,53,Birmingham,I was disappointed with this laptop stand I bought online. Delivery was to Birmingham.,1,False,2023-07-30,Electronics,Laptop Stand,0,91.63
+146,Casey Patel,56,Bristol,I was disappointed with this mystery novel I bought online. Delivery was to Bristol.,1,False,2023-10-23,Books,Mystery Novel,0,129.32
+147,Taylor Jones,24,Leeds,I was disappointed with this mystery novel I bought online. Delivery was to Leeds.,1,False,2023-05-23,Books,Mystery Novel,0,145.65
+148,Casey Taylor,56,London,I was disappointed with this shampoo I bought online. Delivery was to London.,1,False,2023-04-03,Beauty,Shampoo,1,71.95
+149,Sam Khan,18,Glasgow,I really liked this non-stick pan I bought online. Delivery was to Glasgow.,5,True,2023-12-03,Home & Kitchen,Non-stick Pan,2,103.19
+150,Taylor Patel,65,Manchester,I really liked this dumbbell set I bought online. Delivery was to Manchester.,4,True,2023-08-03,Sports,Dumbbell Set,2,116.14
+151,Taylor Khan,64,Bristol,I was disappointed with this data science 101 I bought online. Delivery was to Bristol.,1,False,2023-03-21,Books,Data Science 101,5,43.57
+152,Kiran Patel,35,Manchester,I really liked this jacket I bought online. Delivery was to Manchester.,4,True,2023-11-07,Clothing,Jacket,0,113.3
+153,Sam Brown,40,Manchester,"It was okay, not great hoodie I bought online. Delivery was to Manchester.",3,False,2023-12-14,Clothing,Hoodie,4,171.23
+154,Avery Taylor,20,Bristol,I really liked this led lamp I bought online. Delivery was to Bristol.,5,True,2023-01-29,Home & Kitchen,LED Lamp,3,6.88
+155,Sam Brown,34,Birmingham,I was disappointed with this mystery novel I bought online. Delivery was to Birmingham.,1,False,2023-01-04,Books,Mystery Novel,3,126.86
+156,Casey Garcia,42,Birmingham,I really liked this dumbbell set I bought online. Delivery was to Birmingham.,5,True,2023-10-14,Sports,Dumbbell Set,3,209.17
+157,Riley Smith,65,Cardiff,I was disappointed with this bluetooth speaker I bought online. Delivery was to Cardiff.,1,False,2023-08-24,Electronics,Bluetooth Speaker,2,230.68
+158,Riley Martin,54,Cardiff,"It was okay, not great jacket I bought online. Delivery was to Cardiff.",3,False,2023-02-28,Clothing,Jacket,1,104.23
+159,Riley Garcia,62,Edinburgh,I really liked this data science 101 I bought online. Delivery was to Edinburgh.,4,True,2023-02-24,Books,Data Science 101,3,64.61
+160,Kiran Singh,43,Manchester,I was disappointed with this mystery novel I bought online. Delivery was to Manchester.,2,False,2023-06-20,Books,Mystery Novel,2,195.88
+161,Jordan Taylor,51,Manchester,"It was okay, not great dumbbell set I bought online. Delivery was to Manchester.",3,False,2023-06-29,Sports,Dumbbell Set,1,183.21
+162,Taylor Brown,27,Manchester,I was disappointed with this python for beginners I bought online. Delivery was to Manchester.,2,False,2023-11-05,Books,Python for Beginners,3,42.45
+163,Jordan Garcia,47,Edinburgh,I really liked this tennis racket I bought online. Delivery was to Edinburgh.,5,True,2023-11-26,Sports,Tennis Racket,1,160.65
+164,Kiran Khan,27,Glasgow,I really liked this hoodie I bought online. Delivery was to Glasgow.,4,True,2023-08-15,Clothing,Hoodie,2,159.69
+165,Sam Martin,40,London,"It was okay, not great yoga mat I bought online. Delivery was to London.",3,False,2023-08-25,Sports,Yoga Mat,1,115.72
+166,Alex Khan,22,Bristol,I really liked this face serum I bought online. Delivery was to Bristol.,5,True,2023-11-01,Beauty,Face Serum,0,129.23
+167,Avery Martin,46,London,"It was okay, not great dumbbell set I bought online. Delivery was to London.",3,False,2023-11-06,Sports,Dumbbell Set,2,121.53
+168,Taylor Patel,24,Edinburgh,I really liked this data science 101 I bought online. Delivery was to Edinburgh.,5,True,2023-11-27,Books,Data Science 101,0,47.28
+169,Morgan Jones,51,Edinburgh,"It was okay, not great dumbbell set I bought online. Delivery was to Edinburgh.",3,False,2023-07-10,Sports,Dumbbell Set,1,229.89
+170,Casey Singh,61,Glasgow,"It was okay, not great yoga mat I bought online. Delivery was to Glasgow.",3,False,2023-02-03,Sports,Yoga Mat,2,85.77
+171,Jamie Singh,34,Bristol,"It was okay, not great moisturizer I bought online. Delivery was to Bristol.",3,False,2023-02-11,Beauty,Moisturizer,0,147.77
+172,Taylor Khan,59,Bristol,I was disappointed with this conditioner I bought online. Delivery was to Bristol.,2,False,2023-11-01,Beauty,Conditioner,2,178.66
+173,Jordan Lee,59,Cardiff,I really liked this python for beginners I bought online. Delivery was to Cardiff.,5,True,2023-02-17,Books,Python for Beginners,4,163.28
+174,Casey Taylor,19,Glasgow,I was disappointed with this mystery novel I bought online. Delivery was to Glasgow.,2,False,2023-04-20,Books,Mystery Novel,0,88.72
+175,Avery Brown,26,Leeds,"It was okay, not great ceramic mug I bought online. Delivery was to Leeds.",3,False,2023-02-21,Home & Kitchen,Ceramic Mug,2,129.38
+176,Jamie Taylor,60,London,I really liked this python for beginners I bought online. Delivery was to London.,5,True,2023-07-12,Books,Python for Beginners,1,42.79
+177,Taylor Martin,64,Birmingham,I really liked this hoodie I bought online. Delivery was to Birmingham.,4,True,2023-07-06,Clothing,Hoodie,1,170.71
+178,Morgan Jones,65,Bristol,I really liked this running shoes I bought online. Delivery was to Bristol.,5,True,2023-05-03,Clothing,Running Shoes,1,80.82
+179,Avery Brown,61,Glasgow,I really liked this tennis racket I bought online. Delivery was to Glasgow.,4,True,2023-05-25,Sports,Tennis Racket,0,195.64
+180,Jamie Taylor,28,Cardiff,"It was okay, not great non-stick pan I bought online. Delivery was to Cardiff.",3,False,2023-01-27,Home & Kitchen,Non-stick Pan,0,162.09
+181,Riley Taylor,63,Manchester,"It was okay, not great yoga mat I bought online. Delivery was to Manchester.",3,False,2023-02-12,Sports,Yoga Mat,4,191.96
+182,Sam Jones,45,Birmingham,I really liked this smartphone I bought online. Delivery was to Birmingham.,4,True,2023-06-28,Electronics,Smartphone,2,232.97
+183,Casey Patel,50,Cardiff,I really liked this python for beginners I bought online. Delivery was to Cardiff.,4,True,2023-02-11,Books,Python for Beginners,1,96.85
+184,Alex Khan,63,Manchester,I was disappointed with this shampoo I bought online. Delivery was to Manchester.,2,False,2023-03-12,Beauty,Shampoo,1,14.38
+185,Avery Garcia,46,Edinburgh,I was disappointed with this yoga mat I bought online. Delivery was to Edinburgh.,1,False,2023-01-10,Sports,Yoga Mat,3,67.7
+186,Taylor Taylor,25,Cardiff,"It was okay, not great python for beginners I bought online. Delivery was to Cardiff.",3,False,2023-03-04,Books,Python for Beginners,3,16.7
+187,Casey Martin,22,Edinburgh,I really liked this bluetooth speaker I bought online. Delivery was to Edinburgh.,5,True,2023-10-02,Electronics,Bluetooth Speaker,2,9.03
+188,Jamie Martin,63,Leeds,I really liked this vacuum cleaner I bought online. Delivery was to Leeds.,4,True,2023-01-01,Home & Kitchen,Vacuum Cleaner,2,155.63
+189,Morgan Martin,29,Cardiff,I really liked this face serum I bought online. Delivery was to Cardiff.,5,True,2023-07-04,Beauty,Face Serum,3,21.58
+190,Jamie Taylor,42,London,I really liked this hoodie I bought online. Delivery was to London.,4,True,2023-07-11,Clothing,Hoodie,1,67.14
+191,Alex Khan,40,Manchester,I really liked this ceramic mug I bought online. Delivery was to Manchester.,5,True,2023-06-20,Home & Kitchen,Ceramic Mug,0,37.69
+192,Riley Taylor,59,Glasgow,I really liked this led lamp I bought online. Delivery was to Glasgow.,4,True,2023-11-20,Home & Kitchen,LED Lamp,1,49.66
+193,Taylor Smith,20,Edinburgh,I was disappointed with this python for beginners I bought online. Delivery was to Edinburgh.,1,False,2023-04-13,Books,Python for Beginners,1,222.02
+194,Riley Lee,52,Cardiff,I was disappointed with this jeans I bought online. Delivery was to Cardiff.,1,False,2023-11-28,Clothing,Jeans,4,51.82
+195,Riley Patel,35,Glasgow,I really liked this laptop stand I bought online. Delivery was to Glasgow.,4,True,2023-07-24,Electronics,Laptop Stand,2,187.11
+196,Casey Khan,49,Birmingham,"It was okay, not great conditioner I bought online. Delivery was to Birmingham.",3,False,2023-09-23,Beauty,Conditioner,5,70.35
+197,Jordan Singh,45,Manchester,I really liked this dumbbell set I bought online. Delivery was to Manchester.,5,True,2023-05-31,Sports,Dumbbell Set,2,83.7
+198,Jordan Khan,37,Bristol,I was disappointed with this jacket I bought online. Delivery was to Bristol.,2,False,2023-12-20,Clothing,Jacket,0,113.76
+199,Avery Patel,57,Glasgow,I was disappointed with this jeans I bought online. Delivery was to Glasgow.,1,False,2023-02-08,Clothing,Jeans,3,169.44
+200,Casey Khan,19,Birmingham,I was disappointed with this led lamp I bought online. Delivery was to Birmingham.,1,False,2023-03-06,Home & Kitchen,LED Lamp,2,21.47
